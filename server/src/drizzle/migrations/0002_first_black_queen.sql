@@ -1,0 +1,1 @@
+ALTER TABLE "subscriptions" ALTER COLUMN "created_at" SET DEFAULT now();
